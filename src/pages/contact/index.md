@@ -1,6 +1,6 @@
 ---
+templateKey: contact-page
+title: 'Contact Us '
+heading: email us at aqbc@abc.com
+---
 
-templateKey: 'contact-page'
-path: /contact
-title: Our Coffee
-heading: What we offer
